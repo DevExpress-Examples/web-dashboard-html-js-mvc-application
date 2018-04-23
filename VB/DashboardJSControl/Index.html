@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+
+    <link href="/Content/dx.dashboard-control.bundle.css" rel="stylesheet" />
+    <script src="/Content/dx.dashboard-control.third-party.min.js"></script>
+    <script src="/Content/dx.dashboard-control.bundle.min.js"></script>
+
+    <script>
+        window.onload = function () {
+            DevExpress.Dashboard.ResourceManager.embedBundledResources();
+            var dashboardControl = new DevExpress.Dashboard.DashboardControl(document.getElementById("web-dashboard"), {
+                endpoint: "/api/dashboard"
+            });
+            dashboardControl.render();
+        };
+    </script>
+</head>
+<body>
+    <div id="web-dashboard" style="position: absolute; left: 0; right: 0; top: 0; bottom: 0">
+    </div>
+</body>
+</html>
