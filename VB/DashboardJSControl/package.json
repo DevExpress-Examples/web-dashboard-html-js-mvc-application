@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "devexpress-dashboard": "18.2.3",
+    "jquery-ui-dist": "1.12.1"
+  },
+  "devDependencies": {}
+}
