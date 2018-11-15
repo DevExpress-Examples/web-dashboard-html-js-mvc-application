@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax.cs](./CS/DashboardJSControl/Global.asax.cs) (VB: [Global.asax.vb](./VB/DashboardJSControl/Global.asax.vb))
+* [Index.html](./CS/DashboardJSControl/Index.html) (VB: [Index.html](./VB/DashboardJSControl/Index.html))
+<!-- default file list end -->
 # Web Dashboard - How to create the HTML5 JavaScript Web Dashboard application
 
 
