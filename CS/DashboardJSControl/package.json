@@ -3,7 +3,8 @@
   "name": "asp.net",
   "private": true,
   "dependencies": {
-    "devexpress-dashboard": "18.2.3",
+    "devexpress-dashboard": "~18.2.3",
+    "knockout": "~3.4.2",
     "jquery-ui-dist": "1.12.1"
   },
   "devDependencies": {}
