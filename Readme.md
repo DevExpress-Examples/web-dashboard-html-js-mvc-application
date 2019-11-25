@@ -4,14 +4,12 @@
 * [Global.asax.cs](./CS/DashboardJSControl/Global.asax.cs) (VB: [Global.asax.vb](./VB/DashboardJSControl/Global.asax.vb))
 * [Index.html](./CS/DashboardJSControl/Index.html) (VB: [Index.html](./VB/DashboardJSControl/Index.html))
 <!-- default file list end -->
-# Web Dashboard - How to create the HTML JavaScript Web Dashboard application
+# Create an HTML JavaScript Dashboard Application (Global Namespaces)
 
-
-The following example demonstrates an approach that allows you to create Web Dashboard using the JavaScript client side with the ASP.NET MVC / Web API server side. 
+This approach is based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. 
 
 **See Also**
 
-- [Create an HTML JavaScript Designer](https://docs.devexpress.com/Dashboard/119109/Getting-Started/Build-End-User-Dashboard-Designer-Applications/Create-an-HTML5-JavaScript-Designer)
+- [Step-by-step tutorial](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application-global-namespaces)
 - [HTML JavaScript Dashboard Control](https://docs.devexpress.com/Dashboard/119108/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/HTML5-JavaScript-Web-Dashboard-Control/HTML5-JavaScript-Dashboard-Control)
 - [Web Dashboard Technical Overview](https://docs.devexpress.com/Dashboard/119283/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/Web-Dashboard-Technical-Overview)
-
