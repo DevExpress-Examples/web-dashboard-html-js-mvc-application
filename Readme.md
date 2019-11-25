@@ -4,7 +4,7 @@
 * [Global.asax.cs](./CS/DashboardJSControl/Global.asax.cs) (VB: [Global.asax.vb](./VB/DashboardJSControl/Global.asax.vb))
 * [Index.html](./CS/DashboardJSControl/Index.html) (VB: [Index.html](./VB/DashboardJSControl/Index.html))
 <!-- default file list end -->
-# Web Dashboard - How to create the HTML5 JavaScript Web Dashboard application
+# Web Dashboard - How to create the HTML JavaScript Web Dashboard application
 
 
 The following example demonstrates an approach that allows you to create Web Dashboard using the JavaScript client side with the ASP.NET MVC / Web API server side. 
