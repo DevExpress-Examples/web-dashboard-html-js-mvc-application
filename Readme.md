@@ -4,7 +4,7 @@
 * [Global.asax.cs](./CS/DashboardJSControl/Global.asax.cs) (VB: [Global.asax.vb](./VB/DashboardJSControl/Global.asax.vb))
 * [Index.html](./CS/DashboardJSControl/Index.html) (VB: [Index.html](./VB/DashboardJSControl/Index.html))
 <!-- default file list end -->
-# Dashoboard for JavaScript - Create an HTML JavaScript Dashboard Application (Global Namespaces)
+# Dashboard for JavaScript - Create an HTML JavaScript Dashboard Application (Global Namespaces)
 
 This approach is based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. 
 
