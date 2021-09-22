@@ -1,7 +1,8 @@
-Imports DevExpress.DashboardWeb
+﻿Imports DevExpress.DashboardWeb
 Imports DevExpress.DashboardWeb.Mvc
 Imports System.Web.Mvc
 Imports System.Web.Routing
+
 
 Namespace DashboardJSControl
     Public Class MvcApplication
