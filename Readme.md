@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T540056)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Dashboard for JavaScript - Create an HTML JavaScript Dashboard Application (Global Namespaces)
+# Dashboard for JavaScript - Create an HTML JavaScript Dashboard Application
 
 This approach is based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. 
 
@@ -16,6 +16,6 @@ This approach is based on the client-server model. You need a server (backend) p
 
 ## Documentation
 
-- [Step-by-Step Tutorial](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application-global-namespaces)
+- [Step-by-Step Tutorial](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application)
 - [HTML JavaScript Dashboard Control](https://docs.devexpress.com/Dashboard/119108/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/HTML5-JavaScript-Web-Dashboard-Control/HTML5-JavaScript-Dashboard-Control)
 - [Web Dashboard Technical Overview](https://docs.devexpress.com/Dashboard/119283/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/Web-Dashboard-Technical-Overview)
