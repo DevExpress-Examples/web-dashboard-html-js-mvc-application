@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Dashboard for JavaScript - Create an HTML JavaScript Dashboard Application
 
-This approach is based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. 
+The example contains the source code of the project created in this step-by-step tutorial: [Create a JavaScript Dashboard Application](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application).
 
 <!-- default file list -->
 ## Files to Look At
@@ -16,6 +16,6 @@ This approach is based on the client-server model. You need a server (backend) p
 
 ## Documentation
 
-- [Step-by-Step Tutorial](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application)
+- [Create a JavaScript Dashboard Application](https://docs.devexpress.com/Dashboard/119109/get-started/build-web-dashboard-applications/create-an-html-javascript-dashboard-application)
 - [HTML JavaScript Dashboard Control](https://docs.devexpress.com/Dashboard/119108/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/HTML5-JavaScript-Web-Dashboard-Control/HTML5-JavaScript-Dashboard-Control)
 - [Web Dashboard Technical Overview](https://docs.devexpress.com/Dashboard/119283/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/Web-Dashboard-Technical-Overview)
