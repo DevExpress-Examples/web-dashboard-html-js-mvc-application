@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HtmlJavaScriptApp", "HtmlJavaScriptApp\HtmlJavaScriptApp.vbproj", "{965ECEB0-B534-4B7D-B2CE-A4F114399964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965ECEB0-B534-4B7D-B2CE-A4F114399964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965ECEB0-B534-4B7D-B2CE-A4F114399964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965ECEB0-B534-4B7D-B2CE-A4F114399964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965ECEB0-B534-4B7D-B2CE-A4F114399964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282AEB39-B45F-46DC-A8E4-6C19293D1774}
+	EndGlobalSection
+EndGlobal

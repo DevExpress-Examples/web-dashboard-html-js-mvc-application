@@ -10,8 +10,8 @@ The example contains the source code of the project created in this step-by-step
 <!-- default file list -->
 ## Files to Look At
 
-* [Global.asax.cs](./CS/DashboardJSControl/Global.asax.cs) (VB: [Global.asax.vb](./VB/DashboardJSControl/Global.asax.vb))
-* [Index.html](./CS/DashboardJSControl/Index.html) (VB: [Index.html](./VB/DashboardJSControl/Index.html))
+* [Global.asax.cs](./CS/HtmlJavaScriptApp/Global.asax.cs) (VB: [Global.asax.vb](./VB/HtmlJavaScriptApp/Global.asax.vb))
+* [Index.html](./CS/HtmlJavaScriptApp/Index.html) (VB: [Index.html](./VB/HtmlJavaScriptApp/Index.html))
 <!-- default file list end -->
 
 ## Documentation
