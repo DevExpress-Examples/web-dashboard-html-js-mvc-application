@@ -12,7 +12,6 @@ namespace HtmlJavaScriptApp {
             RouteTable.Routes.MapDashboardRoute("api/dashboard", "DefaultDashboard");
             DashboardConfigurator.Default.SetDashboardStorage(new DashboardFileStorage("~/App_Data/Dashboards"));
             DashboardConfigurator.Default.SetConnectionStringsProvider(new ConfigFileConnectionStringsProvider());
-
         }
     }
 }
