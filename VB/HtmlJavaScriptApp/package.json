@@ -3,8 +3,8 @@
   "name": "asp.net",
   "private": true,
   "devDependencies": {
-    "devextreme": "22.2.4",
-    "@devexpress/analytics-core": "22.2.4",
-    "devexpress-dashboard": "22.2.4"
+    "devextreme": "22.2.5",
+    "@devexpress/analytics-core": "22.2.5",
+    "devexpress-dashboard": "22.2.5"
   }
 }
