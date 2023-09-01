@@ -11,7 +11,7 @@ The example contains the source code of the project created in this step-by-step
 ## Files to Look At
 
 * [Global.asax.cs](./CS/HtmlJavaScriptApp/Global.asax.cs) (VB: [Global.asax.vb](./VB/HtmlJavaScriptApp/Global.asax.vb))
-* [Index.html](./CS/HtmlJavaScriptApp/Index.html) (VB: [Index.html](./VB/HtmlJavaScriptApp/Index.html))
+* [index.html](./CS/HtmlJavaScriptApp/index.html) (VB: [index.html](./VB/HtmlJavaScriptApp/index.html))
 <!-- default file list end -->
 
 ## Documentation
