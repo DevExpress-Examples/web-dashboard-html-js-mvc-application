@@ -21,7 +21,7 @@ The example contains the source code of the project created in this step-by-step
 - [HTML JavaScript Dashboard Control](https://docs.devexpress.com/Dashboard/119108/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/HTML5-JavaScript-Web-Dashboard-Control/HTML5-JavaScript-Dashboard-Control)
 - [Web Dashboard Technical Overview](https://docs.devexpress.com/Dashboard/119283/Building-the-Designer-and-Viewer-Applications/Web-Dashboard/Web-Dashboard-Technical-Overview)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-dashboard-html-js-mvc-application&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-dashboard-html-js-mvc-application&~~~was_helpful=no)
 
